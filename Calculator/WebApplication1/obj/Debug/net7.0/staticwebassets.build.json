@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lWsW4kZJSgqtVB+wZd+/jYd1j2BHNakzV3hp3wokn4g=",
+  "Source": "Math app through HTTP GET",
+  "BasePath": "_content/Math app through HTTP GET",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
