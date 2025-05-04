@@ -39,7 +39,7 @@ namespace Bank_app.Controller
                 int accountNO = Convert.ToInt16(accountNumberObj);
                 if(accountNO!=data.accountNumber)
                 {
-                    return BadRequest($"account number should be {data.accountNumber}");
+                    return BadRequest($"account number should be {data.currentBalanc}");
                 }
                 else
                     return Content($"{data.accountNumber}");
