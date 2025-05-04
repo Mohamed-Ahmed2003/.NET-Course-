@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "kQF8ENWkYjlyHApNssqVoom0tbPD5VNzRFLq/HRjnhw=",
+  "Source": "Bank_app",
+  "BasePath": "_content/Bank_app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Bank_app\\wwwroot",
+      "Source": "Bank_app",
+      "ContentRoot": "C:\\Users\\Mohamed Fathy\\Desktop\\programing\\.NET course assignment\\Bank_app\\Bank_app\\wwwroot\\",
+      "BasePath": "_content/Bank_app",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Mohamed Fathy\\Desktop\\programing\\.NET course assignment\\Bank_app\\Bank_app\\wwwroot\\CSS.pdf",
+      "SourceId": "Bank_app",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Fathy\\Desktop\\programing\\.NET course assignment\\Bank_app\\Bank_app\\wwwroot\\",
+      "BasePath": "_content/Bank_app",
+      "RelativePath": "CSS.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CSS.pdf"
+    }
+  ]
+}
