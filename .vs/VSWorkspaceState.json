@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Bank_app\\Bank_app",
+    "\\Bank_app\\Bank_app\\Controller",
+    "\\countries_app",
+    "\\login",
+    "\\login\\login",
+    "\\login\\login\\middlewares"
   ],
-  "SelectedNode": "\\Calculator",
+  "SelectedNode": "\\login\\login\\middlewares\\Handler.cs",
   "PreviewInSolutionExplorer": false
 }
