@@ -1,0 +1,15 @@
+C:\Users\Mohamed Fathy\Desktop\programing\.NET course assignment\Weather_app\Service Contract\bin\Debug\net7.0\Service Contract.deps.json
+C:\Users\Mohamed Fathy\Desktop\programing\.NET course assignment\Weather_app\Service Contract\bin\Debug\net7.0\Service Contract.dll
+C:\Users\Mohamed Fathy\Desktop\programing\.NET course assignment\Weather_app\Service Contract\bin\Debug\net7.0\Service Contract.pdb
+C:\Users\Mohamed Fathy\Desktop\programing\.NET course assignment\Weather_app\Service Contract\bin\Debug\net7.0\Model.dll
+C:\Users\Mohamed Fathy\Desktop\programing\.NET course assignment\Weather_app\Service Contract\bin\Debug\net7.0\Model.pdb
+C:\Users\Mohamed Fathy\Desktop\programing\.NET course assignment\Weather_app\Service Contract\obj\Debug\net7.0\Service Contract.csproj.AssemblyReference.cache
+C:\Users\Mohamed Fathy\Desktop\programing\.NET course assignment\Weather_app\Service Contract\obj\Debug\net7.0\Service Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Fathy\Desktop\programing\.NET course assignment\Weather_app\Service Contract\obj\Debug\net7.0\Service Contract.AssemblyInfoInputs.cache
+C:\Users\Mohamed Fathy\Desktop\programing\.NET course assignment\Weather_app\Service Contract\obj\Debug\net7.0\Service Contract.AssemblyInfo.cs
+C:\Users\Mohamed Fathy\Desktop\programing\.NET course assignment\Weather_app\Service Contract\obj\Debug\net7.0\Service Contract.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Fathy\Desktop\programing\.NET course assignment\Weather_app\Service Contract\obj\Debug\net7.0\Service Contract.csproj.CopyComplete
+C:\Users\Mohamed Fathy\Desktop\programing\.NET course assignment\Weather_app\Service Contract\obj\Debug\net7.0\Service Contract.dll
+C:\Users\Mohamed Fathy\Desktop\programing\.NET course assignment\Weather_app\Service Contract\obj\Debug\net7.0\refint\Service Contract.dll
+C:\Users\Mohamed Fathy\Desktop\programing\.NET course assignment\Weather_app\Service Contract\obj\Debug\net7.0\Service Contract.pdb
+C:\Users\Mohamed Fathy\Desktop\programing\.NET course assignment\Weather_app\Service Contract\obj\Debug\net7.0\ref\Service Contract.dll

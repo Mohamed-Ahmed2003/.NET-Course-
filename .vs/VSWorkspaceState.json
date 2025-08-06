@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Bank_app\\Bank_app",
-    "\\Bank_app\\Bank_app\\Controller",
     "\\countries_app",
+    "\\countries_app\\countries_app",
     "\\login",
     "\\login\\login",
     "\\login\\login\\middlewares"
